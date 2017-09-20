@@ -1,4 +1,4 @@
-# js-blacklist
+# JavaScript Blacklist
 
 A basic list of known hosts that have historically served annoying and/or naughty JavaScript.
 
