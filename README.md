@@ -8,7 +8,7 @@ For use with browser extensions such as [JavaScript Blacklist](https://code.goog
 
 ## Who made this?
 
-[Jason Cosper](https://twitter.com/boogah/) put it all together and adds new entries. A significant number of entries are courtesy of [John Gruber](https://gist.github.com/gruber/f7d2a569b3fb51d48a89) and [Nick Heer](http://pxlnv.com/miscellanea/javascript-blacklist/).
+[Jason Cosper](https://twitter.com/boogah/) put it all together and adds new entries. A significant number of entries are courtesy of [John Gruber](https://gist.github.com/gruber/f7d2a569b3fb51d48a89), [Nick Heer](http://pxlnv.com/miscellanea/javascript-blacklist/), and [Ismail Belkacim](https://github.com/xd4rker/MinerBlock).
 
 ## How can I add a host to this list?
 

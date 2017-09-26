@@ -29,6 +29,7 @@ criteo.net
 d1.openx.org
 doubleclick.net
 doubleverify.com
+edgeno.de
 exitjunction.com
 fyre.co
 getconnected.southwestwi-fi.com
@@ -40,11 +41,16 @@ intellitxt.com
 intentmedia.net
 jetpackdigital.com
 jsecoin.com
+jyhfuqoh.info
 kargo.com
 kontera.com
+listat.biz
 livefyre.com
 liverail.com
+lmodr.biz
+load.jsecoin.com
 luminate.com
+mataharirama.xyz
 meebo.com
 moovmanage.com
 o.aolcdn.com
@@ -56,6 +62,7 @@ po.st
 pointroll.com
 pubmatic.com
 quantserve.com
+reasedoper.pw
 s.ppjol.net
 scmplayer.net
 scorecardresearch.com
