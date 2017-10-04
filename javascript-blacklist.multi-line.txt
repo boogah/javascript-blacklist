@@ -2,7 +2,7 @@
 2leep.com
 2mdn.net
 3lift.com
-AdGardener.com
+adgardener.com
 adclick.g.doubleclick.net
 addthis.com
 adgardener.com
@@ -23,6 +23,7 @@ cdn.taboolasyndication.com
 cdn.wibiya.com
 chartbeat.com
 chartbeat.net
+coinhive.com
 coin-hive.com
 connatix.com
 criteo.com
@@ -53,6 +54,7 @@ load.jsecoin.com
 luminate.com
 mataharirama.xyz
 meebo.com
+minecrunch.co
 minemytraffic.com
 moovmanage.com
 o.aolcdn.com
@@ -77,6 +79,7 @@ sharethrough.com
 skimresources.com
 snap.com
 stalabol.com
+static.reasedoper.pw
 streamrail.com
 streamrail.net
 superclick.com

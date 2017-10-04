@@ -27,6 +27,7 @@
 0.0.0.0 cdn.wibiya.com
 0.0.0.0 chartbeat.com
 0.0.0.0 chartbeat.net
+0.0.0.0 coinhive.com
 0.0.0.0 coin-hive.com
 0.0.0.0 connatix.com
 0.0.0.0 criteo.com
@@ -57,6 +58,7 @@
 0.0.0.0 luminate.com
 0.0.0.0 mataharirama.xyz
 0.0.0.0 meebo.com
+0.0.0.0 minecrunch.co
 0.0.0.0 minemytraffic.com
 0.0.0.0 moovmanage.com
 0.0.0.0 o.aolcdn.com
@@ -81,6 +83,7 @@
 0.0.0.0 skimresources.com
 0.0.0.0 snap.com
 0.0.0.0 stalabol.com
+0.0.0.0 static.reasedoper.pw
 0.0.0.0 streamrail.com
 0.0.0.0 streamrail.net
 0.0.0.0 superclick.com
