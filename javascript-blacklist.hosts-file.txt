@@ -76,6 +76,7 @@
 0.0.0.0 scorecardresearch.com
 0.0.0.0 scorecardsresearch.com
 0.0.0.0 security.fblaster.com
+0.0.0.0 server.jsecoin.com
 0.0.0.0 servicer.idealmedia.com
 0.0.0.0 serving-sys.com
 0.0.0.0 sharethis.com
