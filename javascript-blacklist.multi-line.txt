@@ -23,6 +23,7 @@ cdn.taboolasyndication.com
 cdn.wibiya.com
 chartbeat.com
 chartbeat.net
+cnhv.co
 coinhive.com
 coin-hive.com
 connatix.com
@@ -38,6 +39,7 @@ getconnected.southwestwi-fi.com
 googleadservices.com
 gravity.com
 grvcdn.com
+gus.host
 imrworldwide.com
 intellitxt.com
 intentmedia.net
@@ -56,6 +58,7 @@ mataharirama.xyz
 meebo.com
 minecrunch.co
 minemytraffic.com
+miner.pr0gramm.com
 moovmanage.com
 o.aolcdn.com
 olark.com

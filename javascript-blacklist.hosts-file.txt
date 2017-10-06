@@ -27,6 +27,7 @@
 0.0.0.0 cdn.wibiya.com
 0.0.0.0 chartbeat.com
 0.0.0.0 chartbeat.net
+0.0.0.0 cnhv.co
 0.0.0.0 coinhive.com
 0.0.0.0 coin-hive.com
 0.0.0.0 connatix.com
@@ -42,6 +43,7 @@
 0.0.0.0 googleadservices.com
 0.0.0.0 gravity.com
 0.0.0.0 grvcdn.com
+0.0.0.0 gus.host
 0.0.0.0 imrworldwide.com
 0.0.0.0 intellitxt.com
 0.0.0.0 intentmedia.net
@@ -60,6 +62,7 @@
 0.0.0.0 meebo.com
 0.0.0.0 minecrunch.co
 0.0.0.0 minemytraffic.com
+0.0.0.0 miner.pr0gramm.com
 0.0.0.0 moovmanage.com
 0.0.0.0 o.aolcdn.com
 0.0.0.0 olark.com
