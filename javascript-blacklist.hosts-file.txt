@@ -33,6 +33,7 @@
 0.0.0.0 connatix.com
 0.0.0.0 criteo.com
 0.0.0.0 criteo.net
+0.0.0.0 crypto-loot.com
 0.0.0.0 d1.openx.org
 0.0.0.0 doubleclick.net
 0.0.0.0 doubleverify.com
