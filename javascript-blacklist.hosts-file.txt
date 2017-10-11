@@ -72,6 +72,7 @@
 0.0.0.0 parsely.com
 0.0.0.0 po.st
 0.0.0.0 pointroll.com
+0.0.0.0 ppoi.org
 0.0.0.0 pubmatic.com
 0.0.0.0 quantserve.com
 0.0.0.0 reasedoper.pw
