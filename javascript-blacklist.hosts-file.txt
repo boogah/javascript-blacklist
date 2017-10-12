@@ -28,6 +28,7 @@
 0.0.0.0 chartbeat.com
 0.0.0.0 chartbeat.net
 0.0.0.0 cnhv.co
+0.0.0.0 coinerra.com
 0.0.0.0 coinhive.com
 0.0.0.0 coin-hive.com
 0.0.0.0 connatix.com
