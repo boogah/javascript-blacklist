@@ -66,6 +66,7 @@
 0.0.0.0 minecrunch.co
 0.0.0.0 minemytraffic.com
 0.0.0.0 miner.pr0gramm.com
+0.0.0.0 minero.pw
 0.0.0.0 moovmanage.com
 0.0.0.0 o.aolcdn.com
 0.0.0.0 olark.com
