@@ -54,6 +54,8 @@
 0.0.0.0 jsecoin.com
 0.0.0.0 jyhfuqoh.info
 0.0.0.0 kargo.com
+0.0.0.0 kisshentai.net
+0.0.0.0 kiwifarms.net
 0.0.0.0 kontera.com
 0.0.0.0 listat.biz
 0.0.0.0 livefyre.com
