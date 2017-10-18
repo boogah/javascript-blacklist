@@ -15,6 +15,7 @@ adultadworld.com
 ap.lijit.com
 api.bounceexchange.com
 apture.com
+beta.coinblind.com
 bluekai.com
 bop.fm
 bounceexchange.com
@@ -26,6 +27,7 @@ chartbeat.net
 cnhv.co
 coinerra.com
 coinhive.com
+coinnebula.com
 coin-have.com
 coin-hive.com
 connatix.com
@@ -73,6 +75,7 @@ outbrain.com
 parsely.com
 po.st
 pointroll.com
+pool.coinblind.com
 ppoi.org
 pubmatic.com
 quantserve.com
@@ -104,5 +107,6 @@ wibiya.com
 widgets.outbrain.com
 ws02.coinnebula.com
 ws03.coinnebula.com
+www.coinblind.com
 www.wikplayer.com
 zergnet.com

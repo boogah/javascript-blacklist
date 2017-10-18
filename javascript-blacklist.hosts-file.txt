@@ -19,6 +19,7 @@
 0.0.0.0 ap.lijit.com
 0.0.0.0 api.bounceexchange.com
 0.0.0.0 apture.com
+0.0.0.0 beta.coinblind.com
 0.0.0.0 bluekai.com
 0.0.0.0 bop.fm
 0.0.0.0 bounceexchange.com
@@ -30,6 +31,7 @@
 0.0.0.0 cnhv.co
 0.0.0.0 coinerra.com
 0.0.0.0 coinhive.com
+0.0.0.0 coinnebula.com
 0.0.0.0 coin-have.com
 0.0.0.0 coin-hive.com
 0.0.0.0 connatix.com
@@ -77,6 +79,7 @@
 0.0.0.0 parsely.com
 0.0.0.0 po.st
 0.0.0.0 pointroll.com
+0.0.0.0 pool.coinblind.com
 0.0.0.0 ppoi.org
 0.0.0.0 pubmatic.com
 0.0.0.0 quantserve.com
@@ -108,6 +111,7 @@
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 ws02.coinnebula.com
 0.0.0.0 ws03.coinnebula.com
+0.0.0.0 www.coinblind.com
 0.0.0.0 www.wikplayer.com
 0.0.0.0 zergnet.com
 
