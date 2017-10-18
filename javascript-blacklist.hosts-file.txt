@@ -111,7 +111,6 @@
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 ws02.coinnebula.com
 0.0.0.0 ws03.coinnebula.com
-0.0.0.0 www.coinblind.com
 0.0.0.0 www.wikplayer.com
 0.0.0.0 zergnet.com
 
